@@ -18,7 +18,7 @@ Soy Cloud Engineer que sigue el aprendizaje continuo!
 - ⚡ Dato curioso: Me encanta 🌄 Viajar y compartir conocimientos.
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,javascript,react,python&perline=3)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtaparay&show_icons=true&theme=radical)
 
