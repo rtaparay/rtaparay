@@ -1,8 +1,6 @@
 ### Hola 👋
 Soy Cloud Engineer que sigue el aprendizaje continuo!
 
-# ![https://github.com/rtaparay](./rtaparay_github_profile.png)
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/rtaparayapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/rtaparay?style=social)](https://twitch.com/rtaparay)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://rtaparay.com/rtaparay)
