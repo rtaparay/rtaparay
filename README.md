@@ -1,6 +1,16 @@
 ### Hi there 👋
 I'm an Cloud Engineer who follows Continuous Learning and Continuous Sharing.
 
+![https://github.com/rtaparay](./rtaparay_github_profile.png)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/rtaparayapps?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/rtaparay?style=social)](https://twitch.com/rtaparay)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://rtaparay.com/rtaparay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rtaparay?style=social)](https://twitter.com/rtaparay)
+![GitHub Followers](https://img.shields.io/github/followers/rtaparay?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/rtaparay?style=social)
+
+
 - 🔭 I’m currently working on AWS and DevOps.
 - 👯 I’m looking to collaborate on DevOps Project...
 - 🌱 I’m currently learning Python ...
