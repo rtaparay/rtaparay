@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm an Cloud Engineer who follows Continuous Learning and Continuous Sharing.
+### Hola 👋
+Soy Cloud Engineer que sigue el aprendizaje continuo!
 
 # ![https://github.com/rtaparay](./rtaparay_github_profile.png)
 
@@ -11,24 +11,14 @@ I'm an Cloud Engineer who follows Continuous Learning and Continuous Sharing.
 ![GitHub Followers](https://img.shields.io/github/stars/rtaparay?style=social)
 
 
-- 🔭 I’m currently working on AWS and DevOps.
-- 👯 I’m looking to collaborate on DevOps Project...
-- 🌱 I’m currently learning Python ...
-- 🤔 I’m looking for help with Microservice architecture...
-- 💬 Ask me about DevOps, Career Guidence, ...
-- 📫 How to reach me: rtaparay@gmail.com
-- ⚡ Fun fact: I love 🌄 Travelling and Sharing knowledge..
+- 🔭 Actualmente estoy trabajando en AWS y DevOps.
+- 👯 Estoy buscando colaborar en el Proyecto DevOps...
+- 🌱 Actualmente estoy aprendiendo Python...
+- 🤔 Estoy buscando ayuda con la arquitectura de Microservicios...
+- 💬 Pregúntame sobre DevOps, Orientación Profesional,...
+- 📫 Cómo comunicarse conmigo: rtaparay@gmail.com
+- ⚡ Dato curioso: Me encanta 🌄 Viajar y compartir conocimientos.
 
-## Encuéntrame en:
-
-</br>
-[![Twitch](https://img.shields.io/badge/Twitch-rtaparay-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/rtaparay)
-[![Discord](https://img.shields.io/badge/Discord-rtaparay-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/rtaparay)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@rtaparay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rtaparay)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rtaparay.com)
-[![Web](https://img.shields.io/badge/Web-rtaparay.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rtaparay.com)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
