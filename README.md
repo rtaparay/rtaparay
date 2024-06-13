@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm an Cloud Engineer who follows Continuous Learning and Continuous Sharing.
 
-![https://github.com/rtaparay](./rtaparay_github_profile.png)
+# ![https://github.com/rtaparay](./rtaparay_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/rtaparayapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/rtaparay?style=social)](https://twitch.com/rtaparay)
